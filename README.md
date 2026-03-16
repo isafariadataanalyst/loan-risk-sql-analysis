@@ -1,1 +1,1 @@
-# sql-data-acquisition-analysis
+# loan-risk-sql-analysis
